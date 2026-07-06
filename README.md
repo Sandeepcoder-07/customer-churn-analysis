@@ -192,25 +192,25 @@ Customer-Churn-Analysis/
 
 
 
-```markdown
+
 ![Dashboard](images/dashboard.png)
-```
+
 
 ---
 
 ### Churn Analysis
 
-```markdown
+
 ![Churn Distribution](images/churn_distribution.png)
-```
+
 
 ---
 
 ### Model Results
 
-```markdown
+
 ![Model Performance](images/model_results.png)
-```
+
 
 ---
 
